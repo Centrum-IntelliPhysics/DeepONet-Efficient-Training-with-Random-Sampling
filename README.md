@@ -45,4 +45,16 @@ This repository contains implementations and analyses for the experiments descri
 * Postprocessing: The 'postprocessing' folder contains code for generating plots and visualizations based on the analysis results.
   
 ### Citation:
-If you use this code for your research, please cite our paper http://arxiv.org/abs/2409.13280.
+Our preprint is available on [Arxiv](http://arxiv.org/abs/2409.13280) as well as the published version is availble [here](https://www.worldscientific.com/doi/10.1142/S2811032325400016).
+If you use this code for your research, please cite our paper 
+```
+@article{doi:10.1142/S2811032325400016,
+author = {Karumuri, Sharmila and Graham-Brady, Lori and Goswami, Somdatta},
+title = {Efficient Training of Deep Neural Operator Networks via Randomized Sampling},
+journal = {World Scientific Annual Review of Artificial Intelligence},
+volume = {03},
+number = {},
+pages = {2540001},
+year = {2025},
+doi = {10.1142/S2811032325400016}}
+```

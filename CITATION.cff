@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+title: "DeepONet Efficient Training with Random Sampling"
+message: "If you use this code, please cite our paper and/or this repository."
+type: software
+
+authors:
+  - given-names: "Sharmila"
+    family-names: "Karumuri"
+    affiliation: "Johns Hopkins University"
+  - given-names: "Lori"
+    family-names: "Graham-Brady"
+    affiliation: "Johns Hopkins University"
+  - given-names: "Somdatta"
+    family-names: "Goswami"
+    affiliation: "Johns Hopkins University"
+
+repository-code: "https://github.com/Centrum-IntelliPhysics/DeepONet-Efficient-Training-with-Random-Sampling"
+
+keywords:
+  - scientific machine learning
+  - neural operators
+  - DeepONet
+  - randomized sampling
+  - PDEs
+
+license: Apache-2.0
+
+version: 1.0
+date-released: 2026-03-25
+
+preferred-citation:
+  type: article
+  title: "Efficient Training of Deep Neural Operator Networks via Randomized Sampling"
+  authors:
+    - given-names: "Sharmila"
+      family-names: "Karumuri"
+    - given-names: "Lori"
+      family-names: "Graham-Brady"
+    - given-names: "Somdatta"
+      family-names: "Goswami"
+  journal: "World Scientific Annual Review of Artificial Intelligence"
+  year: 2025
+  doi: "10.1142/S2811032325400016"
